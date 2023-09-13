@@ -1,5 +1,5 @@
   //xpath
- await page.locator('//*/img[@class="onliner_logo"]'); // -1   + 
+  await page.locator('//*/img[@class="onliner_logo"]'); // -1   + 
   await page.locator('//*/input[contains(@class, "fast-search__input")]'); // -2
   await page.locator('//*[@class="footer-style__item"][3]'); // -3
 
